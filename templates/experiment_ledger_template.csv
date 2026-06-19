@@ -1,0 +1,1 @@
+experiment_id,date,week_day,script_or_run,goal,hypothesis,changed_variable,key_hparams,model_params,dataset,seq_len,batch_size,grad_accum,precision,num_gpus,budget_steps,budget_tokens,budget_flops,train_loss,val_loss,best_val_loss,grad_norm,learning_rate,tokens_s,mfu_pct,gpu_mem_gb,status,conclusion,next_action,wandb_or_log_url,notes
